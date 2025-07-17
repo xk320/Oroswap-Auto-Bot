@@ -17,6 +17,34 @@
 - 钱包的私钥或助记词
 - 钱包中需有 ZIG 和 ORO 代币
 
+### 💻 各系统 Node.js 与 npm 安装说明
+
+#### Windows
+1. 访问 [Node.js 官网](https://nodejs.org/zh-cn/download/) 下载 Windows 安装包。
+2. 双击安装包，按照提示完成安装。
+3. 安装完成后，打开命令提示符（cmd），输入 `node -v` 和 `npm -v` 检查版本。
+
+#### macOS
+1. 推荐使用 Homebrew 安装：
+   ```bash
+   brew install node
+   ```
+2. 或前往 [Node.js 官网](https://nodejs.org/zh-cn/download/) 下载 macOS 安装包。
+3. 安装完成后，在终端输入 `node -v` 和 `npm -v` 检查版本。
+
+#### Linux（以 Ubuntu 为例）
+1. 更新包管理器并安装 Node.js：
+   ```bash
+   sudo apt update
+   sudo apt install nodejs npm -y
+   ```
+2. 检查安装：
+   ```bash
+   node -v
+   npm -v
+   ```
+3. 如需最新版本，建议使用 [nvm](https://github.com/nvm-sh/nvm) 管理 Node.js 版本。
+
 ## 🚀 安装
 
 1. **克隆仓库**
@@ -119,7 +147,7 @@
 - **ZIG**：`uzig`（6 位小数）
 - **ORO**：`coin.zig10rfjm85jmzfhravjwpq3hcdz8ngxg7lxd0drkr.uoro`（6 位小数）
 
-## 📈 积分系统
+## �� 积分系统
 
 机器人会追踪多项有助于空投资格的指标：
 
