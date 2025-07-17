@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikitoshi/Oroswap-Auto-Bot.git"
+    "url": "https://github.com/xk320/Oroswap-Auto-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/vikitoshi/Oroswap-Auto-Bot/issues"
+    "url": "https://github.com/xk320/Oroswap-Auto-Bot/issues"
   },
-  "homepage": "https://github.com/vikitoshi/Oroswap-Auto-Bot#readme",
+  "homepage": "https://github.com/xk320/Oroswap-Auto-Bot#readme",
   "dependencies": {
     "@cosmjs/cosmwasm-stargate": "^0.32.4",
     "@cosmjs/crypto": "^0.32.4",
